@@ -8,5 +8,7 @@
 
 ###### Mon projet "jeu_paires_Flament_Jeremy" qui est un jeu de mémoire en Javascript s'inspirant du label Hardstyle "Art of Creation" avec un mini lecteur de musiques du label.
 
+###### Mon projet "toDolist_Flament_Jeremy" qui consiste en la recréation en Javascript des fonctionnalités de base qu'offre Trello, intégrant également le drag & drop.
+
 
 📈 Je suis en constante évolution dans mes compétences en programmation et ai hâte de voir ce que l'avenir me réserve. Je suis déterminé à devenir un développeur expérimenté et à relever tous les défis qui se présenteront à moi.
