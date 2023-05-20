@@ -5,16 +5,16 @@ Je suis actuellement en formation à Molengeek, où j'ai acquis des compétences
 
 ## Projets réalisés
 
-### Jeu de paires "Art of Creation"
+### [Jeu de paires "Art of Creation"](https://github.com/Jihefel/jeu_paires)
 L'un de mes projets les plus marquants est un jeu de mémoire en JavaScript inspiré du label Hardstyle "Art of Creation". J'ai développé ce jeu en utilisant les technologies HTML, CSS et JavaScript, et j'ai également intégré un mini lecteur de musique pour ajouter une expérience immersive.
 
-### Pokedex-React
+### [Pokedex-React](https://github.com/Jihefel/Pokedex-React)
 Un autre projet que j'ai réalisé est "Pokedex-React". Il s'agit d'un Pokédex interactif développé en utilisant React. J'ai utilisé les informations provenant de deux API Pokémon différentes pour afficher les détails des différents Pokémon. Ce projet m'a permis de mettre en pratique mes compétences en React et de créer une interface utilisateur dynamique et réactive.
 
-### Projet final front-end : Système solaire
+### [Projet final front-end : Système solaire](https://github.com/Jihefel/Front-end-Projet_final-Flament_Jeremy)
 Mon projet final en front-end a été de créer un site web basé sur Next.js, utilisant l'API du système solaire. Ce site propose des cartes NFT et des informations sur les corps célestes du système solaire. J'ai utilisé Next.js pour créer une application web performante et réactive, permettant aux utilisateurs d'explorer et de découvrir les merveilles de notre système solaire.
 
-### Projet personnel : Life Manager
+### [Projet personnel : Life Manager](https://github.com/Jihefel/life-manager)
 En parallèle de ma formation, j'ai développé un projet personnel appelé "Life Manager". Cette application utilitaire est destinée à la musculation, une activité que je pratique régulièrement. Elle me permet de gérer mes menus de la semaine, de générer des listes d'ingrédients et de courses, et de suivre mes programmes d'entraînement. J'ai utilisé React pour créer une interface utilisateur intuitive et dynamique.
 
 ## Objectifs futurs
