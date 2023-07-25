@@ -27,7 +27,7 @@ J'ai récemment terminé ma formation à [Molengeek](https://molengeek.com/), o�
 
 ## Projets notoires réalisés
 
-### [![javascript](https://img.shields.io/badge/-F7DF1E?logo=JavaScript&logoColor=black&style=flat) Jeu de paires "Art of Creation" ](https://github.com/Jihefel/jeu_paires) [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb.svg)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
+### [![javascript](https://img.shields.io/badge/-F7DF1E?logo=JavaScript&logoColor=black&style=flat) Jeu de paires "Art of Creation" ](https://github.com/Jihefel/jeu_paires) [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/893ea8be-4799-4710-9056-63a9132ecd52.svg)](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/893ea8be-4799-4710-9056-63a9132ecd52)
 
 L'un de mes projets les plus marquants est un jeu de mémoire en JavaScript inspiré du label Hardstyle "Art of Creation". J'ai développé ce jeu en utilisant les technologies HTML, CSS et JavaScript, et j'ai également intégré un mini lecteur de musique pour ajouter une expérience immersive.
 
