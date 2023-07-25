@@ -4,14 +4,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb.svg)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
 
-![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihefel&layout=compact&theme=transparent&hide_border=true)
-
-[![Jihefel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihefel&layout=compact&hide_border=true&theme=transparent)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
-
-
-
 ## À propos de moi
 J'ai récemment terminé ma formation à [Molengeek](https://molengeek.com/), où j'ai acquis des compétences approfondies en développement front-end. Mon parcours m'a permis de maîtriser les langages et technologies tels que HTML, CSS, SASS, JavaScript, React et Next.js pour le front-end, et MySQL/SQLite et Django Python pour le back-end. J'ai l'intention également d'apprendre par moi-même Java, Spring et Angular pour diversifier mes compétences. Je suis passionné par le développement web et je cherche constamment à élargir mes connaissances et à relever de nouveaux défis.
 
@@ -23,6 +15,15 @@ J'ai récemment terminé ma formation à [Molengeek](https://molengeek.com/), o�
 
 ##### En cours d'apprentissage
 ![java](https://img.shields.io/badge/-Java-f89820?logo=Oracle&logoColor=white&style=flat) ![spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat) ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat) ![angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat) 
+
+
+![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihefel&layout=compact&theme=transparent&hide_border=true)
+
+[![Jihefel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihefel&layout=compact&hide_border=true&theme=transparent)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
+
+
 
 ## Projets notoires réalisés
 
