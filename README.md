@@ -4,11 +4,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb.svg)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
 
-[![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)](https://github.com/jihefel/github-readme-stats)
+![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihefel&layout=compact&theme=transparent&hide_border=true)
 
-[![Jihefel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihefel&layout=compact&hide_border=true&theme=transparent)](https://github.com/jihefel/github-readme-stats)
+[![Jihefel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihefel&layout=compact&hide_border=true&theme=transparent)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
 
 
 
