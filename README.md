@@ -14,7 +14,7 @@ J'ai récemment terminé ma formation à [Molengeek](https://molengeek.com/), o�
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) ![git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=F05032&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat) ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=GIMP&logoColor=white&style=flat) 
 
 ##### En cours d'apprentissage
-![java](https://img.shields.io/badge/-Java-f89820?logo=Oracle&logoColor=white&style=flat) ![spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat) ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat) ![angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat) 
+![php](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat) ![java](https://img.shields.io/badge/-Java-f89820?logo=Oracle&logoColor=white&style=flat) ![spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat) ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat) ![angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat) 
 
 
 ![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)
