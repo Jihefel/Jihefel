@@ -48,3 +48,5 @@ En parallèle de ma formation, j'ai développé un projet personnel appelé "Lif
 Maintenant que j'ai consolidé mes connaissances en front-end et back-end, mon objectif futur est de me plonger dans le domaine du développement en mettant au point des applications web complètes et fonctionnelles, tout en renforçant mes compétences dans ce domaine en évolution constante. Je suis ouvert à explorer de nouveaux langages et technologies pour mener à bien des projets stimulants.
 
 N'hésitez pas à me contacter pour en savoir plus sur mes réalisations ou discuter de potentielles collaborations. Je suis toujours prêt à apporter mes compétences en développement front-end à des projets passionnants.
+
+![](https://komarev.com/ghpvc/?username=jihefel)
