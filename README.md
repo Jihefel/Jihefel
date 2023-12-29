@@ -44,8 +44,6 @@ J'ai récemment terminé ma formation à [Molengeek](https://molengeek.com/), o�
 
 ![Jihefel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihefel&theme=transparent&hide_border=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihefel&layout=compact&theme=transparent&hide_border=true)
-
 [![Jihefel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihefel&layout=compact&hide_border=true&theme=transparent)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
 
 
