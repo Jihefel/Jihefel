@@ -35,7 +35,7 @@
 ![mui](https://img.shields.io/badge/-Material%20UI-007FFF?logo=MUI&logoColor=white&style=flat) 
 ![nextUi](https://img.shields.io/badge/-NextUI-black?logo=NextUI&logoColor=white&style=flat) 
 ![framer](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=Framer&logoColor=white&style=flat)
-![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Framer&logoColor=white&style=flat)
+![vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=Vuetify&logoColor=white&style=flat)
 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) 
 ![git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=F05032&style=flat) 
