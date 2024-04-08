@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/jfljflament/)
 
-[![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb.svg)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
+[![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb.svg?style=social)](https://wakatime.com/@c61c0565-ed7c-4256-bf44-388266fed5fb)
 
 ![html5](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat) 
 ![css3](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat) 
@@ -45,6 +45,10 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=GIMP&logoColor=white&style=flat) 
 
 ## Projets notoires réalisés
+
+### [![nuxt](https://img.shields.io/badge/-00DC82?logo=Nuxt.js&logoColor=white&style=flat)![laravel](https://img.shields.io/badge/-F05340?logo=Laravel&logoColor=white&style=flat)![mysql](https://img.shields.io/badge/-00758f?logo=MySQL&logoColor=white&style=flat) AA Express Delivery](https://aaexpress.hivetech.be) [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/018d8339-a506-4fea-bd70-7651e9e2183a.svg)](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/018d8339-a506-4fea-bd70-7651e9e2183a)
+
+J'ai développé "from scratch" une plateforme de livraison et de suivi de commande avec dashboard pour les clients et panneau d'administration pour les administrateurs. J'ai utilisé Nuxt.js (Vue.js) pour le front-end, Laravel (PHP) pour le back-end et MySQL en container Docker pour la base de données.
 
 ### [![javascript](https://img.shields.io/badge/-F7DF1E?logo=JavaScript&logoColor=black&style=flat) Jeu de paires "Art of Creation" ](https://github.com/Jihefel/jeu_paires) [![wakatime](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/893ea8be-4799-4710-9056-63a9132ecd52.svg)](https://wakatime.com/badge/user/c61c0565-ed7c-4256-bf44-388266fed5fb/project/893ea8be-4799-4710-9056-63a9132ecd52) https://jihefel.github.io/jeu_paires/
 
