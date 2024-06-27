@@ -28,7 +28,8 @@
 
 ![supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=Supabase&logoColor=white&style=flat) 
 ![sanity](https://img.shields.io/badge/-Sanity-F03E2F?logo=Sanity&logoColor=white&style=flat)
-![docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat) 
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat)
+![puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=Puppeteer&logoColor=white&style=flat)
 
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat) 
 ![tailwind](https://img.shields.io/badge/-Tailwind%20CSS-white?logo=Tailwind%20CSS&logoColor=06B6D4&style=flat) 
