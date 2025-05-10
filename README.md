@@ -11,6 +11,7 @@
 ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&logoColor=white&style=flat)
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffde57&style=flat)
 ![php](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat)
+![java](https://img.shields.io/badge/-Java-f89820?logo=Oracle&logoColor=white&style=flat) 
 
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat) 
 ![next](https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white&style=flat)
@@ -18,8 +19,9 @@
 ![nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=Nuxt.js&logoColor=white&style=flat)
 
 ![mysql](https://img.shields.io/badge/-MySQL-00758f?logo=MySQL&logoColor=white&style=flat) 
-![django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat) 
 ![laravel](https://img.shields.io/badge/-Laravel-F05340?logo=Laravel&logoColor=white&style=flat) 
+![django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white&style=flat) 
+![spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat)
 
 ![reactrouter](https://img.shields.io/badge/-React%20Router-CA4245?logo=React%20Router&logoColor=black&style=flat) 
 ![redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=Redux&logoColor=white&style=flat) 
@@ -72,7 +74,7 @@ En parallèle de ma formation, j'ai développé un projet personnel appelé "Lif
 
 
 ##### Désir d'apprendre
-![java](https://img.shields.io/badge/-Java-f89820?logo=Oracle&logoColor=white&style=flat) ![spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white&style=flat) ![react-native](https://img.shields.io/badge/-React%20Native-white?logo=React&logoColor=61DAFB&style=flat) ![angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat) 
+![react-native](https://img.shields.io/badge/-React%20Native-white?logo=React&logoColor=61DAFB&style=flat) ![angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat) 
  
 
 
